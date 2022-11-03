@@ -19,8 +19,8 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6285749215139']
-global.premium = ['6285749215139']
+global.owner = ['6289514100625']
+global.premium = ['6289514100625']
 global.packname = 'ZenuGanss'
 global.author = 'そ𝙕𝙚𝙣𝙪 𝘼𝙞𝙯𝙖𝙠〽️'
 global.wlcm = []
